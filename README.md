@@ -20,8 +20,20 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Rust Cheat Docs
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+This is where I'll document questions and insights while studying Rust.
+
+***
+
+
+
+### Rust Topics ToDo List
+
+| Topic             | Description |
+| ----------------- | ----------- |
+| {} vs {:?}, {:#?} |             |
+
+Utilize this quick lookup table to dive into each topic and enhance your understanding of Rust.
 
 ### Jump right in
