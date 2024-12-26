@@ -30,11 +30,11 @@ This is where I'll document questions and insights while studying Rust.
 
 ### Rust Topics ToDo List
 
-| Topic           | Status  |
-| --------------- | ------- |
-| {} vs {:?}      | Not yet |
-| enum vs struct  | Not yet |
-| String vs \&str | Not yet |
+| Topic           | Status      |
+| --------------- | ----------- |
+| {} vs {:?}      | Not yet     |
+| enum vs struct  | Not yet     |
+| String vs \&str | Completed ✅ |
 
 Utilize this quick lookup table to dive into each topic and enhance your understanding of Rust.
 
