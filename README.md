@@ -35,6 +35,7 @@ This is where I'll document questions and insights while studying Rust.
 | {} vs {:?}      | Not yet     |
 | enum vs struct  | Not yet     |
 | String vs \&str | Completed ✅ |
+| const vs static | Not yet     |
 
 Utilize this quick lookup table to dive into each topic and enhance your understanding of Rust.
 
